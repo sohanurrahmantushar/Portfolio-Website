@@ -1,0 +1,900 @@
+body{
+    margin: 0px;
+    padding: 0px;
+
+}
+
+
+.nav_body{
+color: mediumblue
+}
+
+h1{
+    color:red;
+}
+.author_img{
+
+    border-right:100%;
+
+}
+.from_size{
+
+    margin-top: 100px;
+body{
+    margin: 0px;
+ body{
+    margin: 0px;
+    padding: 0px;
+
+}
+
+
+.nav_body{
+color: mediumblue
+}
+
+h1{
+    color:red;
+}
+.author_img{
+
+    border-right:100%;
+
+}
+.from_size{
+
+    margin-top: 100px;
+body{
+    margin: 0px;
+    padding: 0px;
+
+}
+
+
+.nav_body{
+    color: mediumblue
+
+}
+
+h1{
+    color:red;
+}
+.my_img{
+
+    border-right:400%;
+
+}
+.from_size{
+
+    margin-top: 100px;
+
+}
+.positon_fixed{
+    padding-top: 100px;
+
+}
+.footer_link{
+
+    padding-top: 60px;
+}
+.footer_body{
+    background-color: yellowgreen;
+    padding-bottom: 12px;
+}
+.me_button a{
+
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    font-weight: 500;
+    font-size: 30px;
+    letter-spacing: 1px;
+    display: inline-block;
+    padding: 10px 20px;
+    border-radius: 4px;
+    transition: 0.5s;
+    margin: 12px;
+    color:red;
+}
+.me_button_explore{
+    color:magenta;
+    background: whitesmoke;
+    text-decoration: none;
+}
+
+
+
+
+.contact_address p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: oblique;
+    font-size: 16px;
+
+}
+
+
+.navbar-default{
+    background-color: mediumblue;
+    border-color:mediumblue
+}.navbar-default .navbar-brand{
+     color:mediumblue;
+     font-family:Arial, Helvetica, sans-serif;
+ }
+.navbar-default .navbar-brand:hover,.navbar-default .navbar-brand:focus,.navbar-default .navbar-brand:active,.navbar-default .navbar-brand.active{
+    color:gold;
+}
+.navbar-default .navbar-collapse{
+    border-color:rgba(255,255,255,.02)
+}.navbar-default .navbar-toggle{
+     background-color:mediumblue;
+     border-color:mediumblue
+ }
+.navbar-default .navbar-toggle .icon-bar{
+    background-color:mediumblue
+}.navbar-default .navbar-toggle:hover,.navbar-default .navbar-toggle:focus{
+     background-color:mediumblue
+ }
+.navbar-default .nav li a{
+    font-family:Arial, Helvetica, sans-serif;
+    text-transform:uppercase;
+    font-weight:400;
+    letter-spacing:1px;
+    color:mediumblue
+}
+.navbar-default .nav li a:hover,.navbar-default .nav li a:focus{
+    color:mediumblue;
+    outline:0
+}.navbar-default .navbar-nav>.active>a{
+     border-radius:0;
+     color:mediumblue;
+     background-color:mediumblue
+ }.navbar-default .navbar-nav>.active>a:hover,.navbar-default .navbar-nav>.active>a:focus{
+      color:mediumblue;
+      background-color:mediumblue
+  }
+@media (min-width:768px){
+    .navbar-default{
+        background-color:mediumblue;
+        padding:10px 0;
+        -webkit-transition:padding .3s;
+        -moz-transition:padding .3s;
+        transition:padding .3s;
+        border:0}
+    .navbar-default .navbar-brand{
+        font-size:2em;
+        -webkit-transition:all .3s;
+        -moz-transition:all .3s;
+        transition:all .3s}
+    .navbar-default .navbar-nav>.active>a{
+        border-radius:3px
+    }.navbar-default.navbar-shrink{
+         background-color:mediumblue;
+         padding:10px 0
+     }.navbar-default.navbar-shrink .navbar-brand{
+          font-size:1.5em
+      }
+
+}
+.section-title-h1{
+    text-align: center;
+    text-transform:uppercase;
+}
+
+.work-image{
+    margin: 1px;
+    overflow: hidden;
+    width: 100%;
+    background-color:green;
+}
+.work-image img{
+    width: 100%;
+    height: auto;
+    transform: scale(1.15);
+    opacity: .7;
+    transition: transform 0.5s , opacity .5s;
+}
+.work-image img:hover{
+    opacity: 1;
+    transform: scale(1.1);
+}
+
+
+header{
+    background-color:mediumspringgreen;
+
+    background-repeat:none;
+    background-attachment:scroll;
+    background-position:center center;
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    background-size:cover;
+    -o-background-size:cover;
+    text-align:center;
+    color:#fff
+}
+header .intro-text{
+}
+header .intro-text .intro-lead-in{
+    font-family:Arial, Helvetica, sans-serif;
+    font-style:oblique;
+    font-size:22px;
+    margin-bottom:25px}
+header .intro-text .intro-heading{
+    font-family:Arial, Helvetica, sans-serif;
+    text-transform:uppercase;
+    font-weight:700;
+    font-size:50px;
+  
+    margin-bottom:40px
+}
+
+
+@media (min-width:768px){
+    header .intro-text{
+        padding-top:300px;
+        padding-bottom:200px
+    }
+    header .intro-text .intro-lead-in{
+        font-family:Arial, Helvetica, sans-serif;
+        font-style:oblique;
+        font-size:40px;
+       
+        margin-bottom:40px
+    }
+    header .intro-text .intro-heading{
+        font-family:Arial, Helvetica, sans-serif;
+        text-transform:uppercase;
+        font-weight:700px;
+        font-size:75px;
+       
+        margin-bottom:50px
+    }
+}
+
+
+
+
+}
+.positon_fixed{
+    padding-top: 100px;
+
+}
+.footer_link{
+
+    padding-top: 60px;
+}
+.footer_body{
+    background-color: yellowgreen;
+    padding-bottom: 20px;
+}
+.me_button a{
+
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    font-weight: 500;
+    font-size: 30px;
+    letter-spacing: 1px;
+    display: inline-block;
+    padding: 10px 20px;
+    border-radius: 4px;
+    transition: 0.5s;
+    margin: 12px;
+    color:red;
+}
+.me_button_explore{
+    color:magenta;
+    background: whitesmoke;
+    text-decoration: none;
+}
+
+
+
+
+.contact_address p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: oblique;
+    font-size: 16px;
+
+}
+
+
+.navbar-default{
+    background-color:mediumblue;
+    border-color:transparent
+}.navbar-default .navbar-brand{
+     color:mediumblue;
+     font-family:Arial, Helvetica, sans-serif;
+ }
+.navbar-default .navbar-brand:hover,.navbar-default .navbar-brand:focus,.navbar-default .navbar-brand:active,.navbar-default .navbar-brand.active{
+    color:gold;
+}
+.navbar-default .navbar-collapse{
+    border-color:rgba(255,255,255,.02)
+}.navbar-default .navbar-toggle{
+     background-color:mediumblue;
+     border-color:mediumblue
+ }
+.navbar-default .navbar-toggle .icon-bar{
+    background-color:mediumblue
+}.navbar-default .navbar-toggle:hover,.navbar-default .navbar-toggle:focus{
+     background-color:mediumblue
+ }
+.navbar-default .nav li a{
+    font-family:Arial, Helvetica, sans-serif;
+    text-transform:uppercase;
+    font-weight:400;
+    letter-spacing:1px;
+    color:mediumblue
+}
+.navbar-default .nav li a:hover,.navbar-default .nav li a:focus{
+    color:mediumblue;
+    outline:0
+}.navbar-default .navbar-nav>.active>a{
+     border-radius:0;
+     color:mediumblue;
+     background-color:mediumblue
+ }.navbar-default .navbar-nav>.active>a:hover,.navbar-default .navbar-nav>.active>a:focus{
+      color:mediumblue;
+      background-color:mediumblue
+  }
+@media (min-width:768px){
+    .navbar-default{
+        background-color:mediumblue;
+        padding:10px 0;
+        -webkit-transition:padding .3s;
+        -moz-transition:padding .3s;
+        transition:padding .3s;
+        border:0}
+    .navbar-default .navbar-brand{
+        font-size:2em;
+        -webkit-transition:all .3s;
+        -moz-transition:all .3s;
+        transition:all .3s}
+    .navbar-default .navbar-nav>.active>a{
+        border-radius:3px
+    }.navbar-default.navbar-shrink{
+         background-color:mediumblue;
+         padding:10px 0
+     }.navbar-default.navbar-shrink .navbar-brand{
+          font-size:1.5em
+      }}
+
+
+
+
+
+
+     .laravel_pc li{
+         display: block;
+         float: left;
+         width: 25%;
+     }
+     .php_project{
+         margin: 0px;
+         overflow: hidden;
+         width: 100%;
+         background-color: #000;
+     }
+.php_project img{
+    width: 100%;
+    height: auto;
+    transform: scale(1.15);
+    opacity: .7;
+    transition: transform 0.5s , opacity .5s;
+}
+.php_project img:hover{
+    opacity: 1;
+    transform: scale(1.1);
+}
+
+.section-title-divider {
+
+    
+}
+
+.div-title-divider {
+}
+
+.section-title-h1{
+    text-align: center;
+    text-transform:uppercase;
+}
+
+.work-image{
+    margin: 2px;
+    overflow: hidden;
+    width: 100%;
+    background-color:green;
+}
+.work-image img{
+    width: 100%;
+    height: auto;
+    transform: scale(1.15);
+    opacity: .7;
+    transition: transform 0.5s , opacity .5s;
+}
+.work-image img:hover{
+    opacity: 1;
+    transform: scale(1.1);
+}
+
+
+header{
+    background-color:mediumspringgreen;
+
+    background-repeat:none;
+    background-attachment:scroll;
+    background-position:center center;
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    background-size:cover;
+    -o-background-size:cover;
+    text-align:center;
+    color:#fff
+}
+header .intro-text{
+}
+header .intro-text .intro-lead-in{
+    font-family:Arial, Helvetica, sans-serif;
+    font-style:oblique;
+    font-size:22px;
+    margin-bottom:25px}
+header .intro-text .intro-heading{
+    font-family:Arial, Helvetica, sans-serif;
+    text-transform:uppercase;
+    font-weight:700;
+    font-size:50px;
+  
+    margin-bottom:40px
+}
+
+
+@media (min-width:768px){
+    header .intro-text{
+        padding-top:300px;
+        padding-bottom:200px
+    }
+    header .intro-text .intro-lead-in{
+        font-family:Arial, Helvetica, sans-serif;
+        font-style:italic;
+        font-size:40px;
+       
+        margin-bottom:40px
+    }
+    header .intro-text .intro-heading{
+        font-family:Arial, Helvetica, sans-serif;
+        text-transform:uppercase;
+        font-weight:700;
+        font-size:75px;
+       
+        margin-bottom:50px
+    }
+}
+
+
+
+   padding: 0px;
+
+}
+
+
+.nav_body{
+    color: mediumblue
+
+}
+
+h1{
+    color:red;
+}
+.author_img{
+
+    border-right:400%;
+
+}
+.from_size{
+
+    margin-top: 100px;
+
+}
+.positon_fixed{
+    padding-top: 100px;
+
+}
+.footer_link{
+
+    padding-top: 60px;
+}
+.footer_body{
+    background-color: yellowgreen;
+    padding-bottom: 12px;
+}
+.me_button a{
+
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    font-weight: 500;
+    font-size: 30px;
+    letter-spacing: 1px;
+    display: inline-block;
+    padding: 10px 20px;
+    border-radius: 4px;
+    transition: 0.5s;
+    margin: 12px;
+    color:red;
+}
+.me_button_explore{
+    color:magenta;
+    background: whitesmoke;
+    text-decoration: none;
+}
+
+
+
+
+.contact_address p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: oblique;
+    font-size: 16px;
+
+}
+
+
+.navbar-default{
+    background-color: mediumblue;
+    border-color:mediumblue
+}.navbar-default .navbar-brand{
+     color:mediumblue;
+     font-family:Arial, Helvetica, sans-serif;
+ }
+.navbar-default .navbar-brand:hover,.navbar-default .navbar-brand:focus,.navbar-default .navbar-brand:active,.navbar-default .navbar-brand.active{
+    color:gold;
+}
+.navbar-default .navbar-collapse{
+    border-color:rgba(255,255,255,.02)
+}.navbar-default .navbar-toggle{
+     background-color:mediumblue;
+     border-color:mediumblue
+ }
+.navbar-default .navbar-toggle .icon-bar{
+    background-color:mediumblue
+}.navbar-default .navbar-toggle:hover,.navbar-default .navbar-toggle:focus{
+     background-color:mediumblue
+ }
+.navbar-default .nav li a{
+    font-family:Arial, Helvetica, sans-serif;
+    text-transform:uppercase;
+    font-weight:400;
+    letter-spacing:1px;
+    color:mediumblue
+}
+.navbar-default .nav li a:hover,.navbar-default .nav li a:focus{
+    color:mediumblue;
+    outline:0
+}.navbar-default .navbar-nav>.active>a{
+     border-radius:0;
+     color:mediumblue;
+     background-color:mediumblue
+ }.navbar-default .navbar-nav>.active>a:hover,.navbar-default .navbar-nav>.active>a:focus{
+      color:mediumblue;
+      background-color:mediumblue
+  }
+@media (min-width:768px){
+    .navbar-default{
+        background-color:mediumblue;
+        padding:10px 0;
+        -webkit-transition:padding .3s;
+        -moz-transition:padding .3s;
+        transition:padding .3s;
+        border:0}
+    .navbar-default .navbar-brand{
+        font-size:2em;
+        -webkit-transition:all .3s;
+        -moz-transition:all .3s;
+        transition:all .3s}
+    .navbar-default .navbar-nav>.active>a{
+        border-radius:3px
+    }.navbar-default.navbar-shrink{
+         background-color:mediumblue;
+         padding:10px 0
+     }.navbar-default.navbar-shrink .navbar-brand{
+          font-size:1.5em
+      }
+
+}
+.section-title-h1{
+    text-align: center;
+    text-transform:uppercase;
+}
+
+.work-image{
+    margin: 1px;
+    overflow: hidden;
+    width: 100%;
+    background-color:green;
+}
+.work-image img{
+    width: 100%;
+    height: auto;
+    transform: scale(1.15);
+    opacity: .7;
+    transition: transform 0.5s , opacity .5s;
+}
+.work-image img:hover{
+    opacity: 1;
+    transform: scale(1.1);
+}
+
+
+header{
+    background-color:mediumspringgreen;
+
+    background-repeat:none;
+    background-attachment:scroll;
+    background-position:center center;
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    background-size:cover;
+    -o-background-size:cover;
+    text-align:center;
+    color:#fff
+}
+header .intro-text{
+}
+header .intro-text .intro-lead-in{
+    font-family:Arial, Helvetica, sans-serif;
+    font-style:oblique;
+    font-size:22px;
+    margin-bottom:25px}
+header .intro-text .intro-heading{
+    font-family:Arial, Helvetica, sans-serif;
+    text-transform:uppercase;
+    font-weight:700;
+    font-size:50px;
+  
+    margin-bottom:40px
+}
+
+
+@media (min-width:768px){
+    header .intro-text{
+        padding-top:300px;
+        padding-bottom:200px
+    }
+    header .intro-text .intro-lead-in{
+        font-family:Arial, Helvetica, sans-serif;
+        font-style:oblique;
+        font-size:40px;
+       
+        margin-bottom:40px
+    }
+    header .intro-text .intro-heading{
+        font-family:Arial, Helvetica, sans-serif;
+        text-transform:uppercase;
+        font-weight:700px;
+        font-size:75px;
+       
+        margin-bottom:50px
+    }
+}
+
+
+
+
+}
+.positon_fixed{
+    padding-top: 100px;
+
+}
+.footer_link{
+
+    padding-top: 60px;
+}
+.footer_body{
+    background-color: yellowgreen;
+    padding-bottom: 20px;
+}
+.me_button a{
+
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    font-weight: 500;
+    font-size: 30px;
+    letter-spacing: 1px;
+    display: inline-block;
+    padding: 10px 20px;
+    border-radius: 4px;
+    transition: 0.5s;
+    margin: 12px;
+    color:red;
+}
+.me_button_explore{
+    color:magenta;
+    background: whitesmoke;
+    text-decoration: none;
+}
+
+
+
+
+.contact_address p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: oblique;
+    font-size: 16px;
+
+}
+
+
+.navbar-default{
+    background-color:mediumblue;
+    border-color:transparent
+}.navbar-default .navbar-brand{
+     color:mediumblue;
+     font-family:Arial, Helvetica, sans-serif;
+ }
+.navbar-default .navbar-brand:hover,.navbar-default .navbar-brand:focus,.navbar-default .navbar-brand:active,.navbar-default .navbar-brand.active{
+    color:gold;
+}
+.navbar-default .navbar-collapse{
+    border-color:rgba(255,255,255,.02)
+}.navbar-default .navbar-toggle{
+     background-color:mediumblue;
+     border-color:mediumblue
+ }
+.navbar-default .navbar-toggle .icon-bar{
+    background-color:mediumblue
+}.navbar-default .navbar-toggle:hover,.navbar-default .navbar-toggle:focus{
+     background-color:mediumblue
+ }
+.navbar-default .nav li a{
+    font-family:Arial, Helvetica, sans-serif;
+    text-transform:uppercase;
+    font-weight:400;
+    letter-spacing:1px;
+    color:mediumblue
+}
+.navbar-default .nav li a:hover,.navbar-default .nav li a:focus{
+    color:mediumblue;
+    outline:0
+}.navbar-default .navbar-nav>.active>a{
+     border-radius:0;
+     color:mediumblue;
+     background-color:mediumblue
+ }.navbar-default .navbar-nav>.active>a:hover,.navbar-default .navbar-nav>.active>a:focus{
+      color:mediumblue;
+      background-color:mediumblue
+  }
+@media (min-width:768px){
+    .navbar-default{
+        background-color:mediumblue;
+        padding:10px 0;
+        -webkit-transition:padding .3s;
+        -moz-transition:padding .3s;
+        transition:padding .3s;
+        border:0}
+    .navbar-default .navbar-brand{
+        font-size:2em;
+        -webkit-transition:all .3s;
+        -moz-transition:all .3s;
+        transition:all .3s}
+    .navbar-default .navbar-nav>.active>a{
+        border-radius:3px
+    }.navbar-default.navbar-shrink{
+         background-color:mediumblue;
+         padding:10px 0
+     }.navbar-default.navbar-shrink .navbar-brand{
+          font-size:1.5em
+      }}
+
+
+
+
+
+
+     .laravel_pc li{
+         display: block;
+         float: left;
+         width: 25%;
+     }
+     .php_project{
+         margin: 0px;
+         overflow: hidden;
+         width: 100%;
+         background-color: #000;
+     }
+.php_project img{
+    width: 100%;
+    height: auto;
+    transform: scale(1.15);
+    opacity: .7;
+    transition: transform 0.5s , opacity .5s;
+}
+.php_project img:hover{
+    opacity: 1;
+    transform: scale(1.1);
+}
+
+.section-title-divider {
+
+    
+}
+
+.div-title-divider {
+}
+
+.section-title-h1{
+    text-align: center;
+    text-transform:uppercase;
+}
+
+.work-image{
+    margin: 2px;
+    overflow: hidden;
+    width: 100%;
+    background-color:green;
+}
+.work-image img{
+    width: 100%;
+    height: auto;
+    transform: scale(1.15);
+    opacity: .7;
+    transition: transform 0.5s , opacity .5s;
+}
+.work-image img:hover{
+    opacity: 1;
+    transform: scale(1.1);
+}
+
+
+header{
+    background-color:mediumspringgreen;
+
+    background-repeat:none;
+    background-attachment:scroll;
+    background-position:center center;
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    background-size:cover;
+    -o-background-size:cover;
+    text-align:center;
+    color:#fff
+}
+header .intro-text{
+}
+header .intro-text .intro-lead-in{
+    font-family:Arial, Helvetica, sans-serif;
+    font-style:oblique;
+    font-size:22px;
+    margin-bottom:25px}
+header .intro-text .intro-heading{
+    font-family:Arial, Helvetica, sans-serif;
+    text-transform:uppercase;
+    font-weight:700;
+    font-size:50px;
+  
+    margin-bottom:40px
+}
+
+
+@media (min-width:768px){
+    header .intro-text{
+        padding-top:300px;
+        padding-bottom:200px
+    }
+    header .intro-text .intro-lead-in{
+        font-family:Arial, Helvetica, sans-serif;
+        font-style:italic;
+        font-size:40px;
+       
+        margin-bottom:40px
+    }
+    header .intro-text .intro-heading{
+        font-family:Arial, Helvetica, sans-serif;
+        text-transform:uppercase;
+        font-weight:700;
+        font-size:75px;
+       
+        margin-bottom:50px
+    }
+}
+
+
+
